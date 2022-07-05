@@ -1,5 +1,5 @@
 ---
-title: "Analysis of 2021 Movies"
+title: "Analysis of Successful 2021 Movies"
 description: |
   An in-depth look at how sucessful the top 10 movies of 2021 were.
 site: distill::distill_website
@@ -203,7 +203,7 @@ genre_2021_clean |>
   tab_source_note(md("Source: *Nash Information Services*"))
 ```
 
-This table shows how many movies in 2021 were made according to the genre. There were a lot of action movies that were made in 2021.
+This table shows how many movies in 2021 were made according to the genre.
 
 ```{r money per genre in 2021, echo = FALSE, fig.width= 10, fig.height= 5}
 genre_2021_clean |> #Gross Dollar Amount 
@@ -229,7 +229,8 @@ genre_2021_clean |> #Gross Dollar Amount
         axis.title.x = element_text(size = 15),
         axis.title.y = element_text(size = 15),
         axis.text.y = element_text(size = 15),
-        legend.text = element_text(size = 10),
+        legend.text = element_text(size = 13),
+        legend.title = element_text(size = 15),
         axis.line.x = element_blank(),
         axis.ticks.x = element_blank(),
         plot.title = element_text(hjust = .5))
@@ -240,8 +241,6 @@ This is a graph about the gross amount of money each genre made. This graph show
 **Analysis**
 
 As we said earlier, 7 of the 10 movies in the top 10 were Action movies. There were a lot of action movies this year compared to other genres. This was a popular year for action movies. After a long year of COVID, people were primarily drawn to Action and Adventure. It looks like with the Top 10 Movies and with the most grossing genre, people like Action movies. Does that mean that Action movies are most likely to be successful? No, correlation doesn't equal causation. But it is possible.
-
-Issues: More movies were Action, so there should be more money generated for the Action genre.
 
 ## Factor 3: Release Date
 
@@ -260,5 +259,7 @@ Of all the factors I have listed, the most influential ones were the Release Dat
 ## Issues
 
 This was a really good year for Marvel Movies. They released 4 movies for their universe and had a Venom movie too. A successful franchise with many fans, theaters were packed for these movies. James Bond and the Fast and Furious Franchises also have grand followings, so these movies will be successful too. Factors like popularity also play a role, so we can't say that all Action movies will do good in this type of year. This is some food for thought for a COVID ridden year. 
+
 Another thing was the No Way Home became very popular because of a leak. It showed that past Spider-Man actor Andrew Garfield was likely to be in the movie. This created lots of nostalgia for older audiences and made people come to the theaters to watch their favorite superheroes.
+
 There are other factors that need to come into play such as the plot or the acting quality when it determining whether a movie was good or not too.
