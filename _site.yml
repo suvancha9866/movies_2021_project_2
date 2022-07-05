@@ -4,6 +4,7 @@ description: |
   Movies 2021 Analysis
 output_dir: "docs"
 theme: theme.css
+favicon: favicon.png
 navbar:
   right:
     - text: "Home"
