@@ -8,3 +8,17 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+
+Hello. My name is Suvan Chatakondu. I live in Aurora, Illinois and attend Metea Valley High School as a rising senior. I am really interested in Data Science.
+
+## Goals
+
+- Figure out what made movies successful in 2021
+- What was the reason behind the movies' success?
+- Learn more about data science
+
+## URLs
+For my data collection, I used two urls to determine my graphs and tables.
+https://www.boxofficemojo.com/year/2021/?grossesOption=totalGrosses&sort=rank&sortDir=asc&ref_=bo_yld__resort#table
+https://www.the-numbers.com/market/2021/genres

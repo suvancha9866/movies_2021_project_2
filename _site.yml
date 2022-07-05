@@ -3,6 +3,7 @@ title: "Movies 2021 Analysis"
 description: |
   Movies 2021 Analysis
 output_dir: "docs"
+theme: theme.css
 navbar:
   right:
     - text: "Home"
