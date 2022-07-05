@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\nAbout Me\r\nHello. My name is Suvan Chatakondu. I live in Aurora, Illinois and\r\nattend Metea Valley High School as a rising senior. I am really\r\ninterested in Data Science.\r\nGoals\r\nFigure out what made movies successful in 2021\r\nWhat was the reason behind the movies’ success?\r\nLearn more about data science\r\nURLs\r\nFor my data collection, I used two urls to determine my graphs and\r\ntables. https://www.boxofficemojo.com/year/2021/?grossesOption=totalGrosses&sort=rank&sortDir=asc&ref_=bo_yld__resort#table\r\nhttps://www.the-numbers.com/market/2021/genres\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-05T07:59:43-05:00"
+      "contents": "\r\nAbout Me\r\nHello. My name is Suvan Chatakondu. I live in Aurora, Illinois and\r\nattend Metea Valley High School as a rising senior. I am really\r\ninterested in Data Science.\r\nGoals\r\nFigure out what made movies successful in 2021\r\nWhat was the reason behind the movies’ success?\r\nLearn more about data science\r\nURLs\r\nFor my data collection, I used two urls to determine my graphs and\r\ntables. https://www.boxofficemojo.com/year/2021/?grossesOption=totalGrosses&sort=rank&sortDir=asc&ref_=bo_yld__resort#table\r\nhttps://www.the-numbers.com/market/2021/genres\r\nGitHub Repository for the\r\nSite\r\nhttps://github.com/suvancha9866/movies_2021_project_2\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-05T18:56:04-05:00"
     },
     {
       "path": "index.html",

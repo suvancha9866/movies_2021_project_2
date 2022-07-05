@@ -22,3 +22,6 @@ Hello. My name is Suvan Chatakondu. I live in Aurora, Illinois and attend Metea 
 For my data collection, I used two urls to determine my graphs and tables.
 https://www.boxofficemojo.com/year/2021/?grossesOption=totalGrosses&sort=rank&sortDir=asc&ref_=bo_yld__resort#table
 https://www.the-numbers.com/market/2021/genres
+
+## GitHub Repository for the Site
+https://github.com/suvancha9866/movies_2021_project_2
