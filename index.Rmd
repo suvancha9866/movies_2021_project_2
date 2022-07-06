@@ -2,6 +2,10 @@
 title: "Analysis of Successful 2021 Movies"
 description: |
   An in-depth look at how sucessful the top 10 movies of 2021 were.
+author:
+  - name: "Suvan Chatakondu"
+date: "2022-07-07"
+bibliography: biblio.bib
 site: distill::distill_website
 ---
 
