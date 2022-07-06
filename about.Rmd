@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## About Me
 
-Hello. My name is Suvan Chatakondu. I live in Aurora, Illinois and attend Metea Valley High School as a rising senior. I am really interested in Data Science.
+Hello. My name is *Suvan Chatakondu*. I live in Aurora, Illinois and attend Metea Valley High School as a rising senior. I am very interested in Statistics and Data Science and I hope to major in something related to the field one day. I have a passion for watching shows and movies too.
 
 ## Goals
 
@@ -25,3 +25,9 @@ https://www.the-numbers.com/market/2021/genres
 
 ## GitHub Repository for the Site
 https://github.com/suvancha9866/movies_2021_project_2
+
+## Notes
+"This is Data Science"  
+~Preceptor
+
+["Kane's Free High School Data Science Bootcamp"](https://bootcamp.davidkane.info)
