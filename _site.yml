@@ -11,4 +11,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fa fa-github
+      href: https://github.com/suvancha9866/movies_2021_project_2
 output: distill::distill_article
